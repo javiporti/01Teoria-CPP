@@ -1,1 +1,5 @@
-*.exe *.obj *.ilk *.pdb *.out
+*.exe 
+*.obj 
+*.ilk 
+*.pdb 
+*.out
